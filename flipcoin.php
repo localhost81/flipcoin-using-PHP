@@ -8,7 +8,7 @@
 	$headCount = 0;
 	$flipCount = 0;
 	while ($headCount < 3) {
-		$flip = rand(0,1);
+		$flip = rand(0,1)
 		$flipCount ++;
 		if ($flip){
 			$headCount ++;
